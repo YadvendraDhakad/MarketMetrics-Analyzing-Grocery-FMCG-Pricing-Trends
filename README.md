@@ -1,10 +1,5 @@
 # MarketMetrics-Analyzing-Grocery-FMCG-Pricing-Trends
 
-# Team Members
-• Ashutosh Rawat – Data Cleaning & Preparation
-• Abhay Tiwari – Statistical Analysis & Visualization
-• Yadvendra Singh Dhakad – SQL Analysis & Dashboard Development,Github & Documentation
-
 # Project Overview
 This project aims to explore and analyze pricing trends within the Indian online grocery and FMCG sector using a dataset of 27,439 products from BigBasket. The primary objective is to provide data-driven insights into price behavior across categories, brands, and pack sizes using data wrangling, statistical analysis, SQL queries, and visual storytelling.
 
