@@ -4,7 +4,7 @@
 This project aims to explore and analyze pricing trends within the Indian online grocery and FMCG sector using a dataset of 27,439 products from BigBasket. The primary objective is to provide data-driven insights into price behavior across categories, brands, and pack sizes using data wrangling, statistical analysis, SQL queries, and visual storytelling.
 
 # Data Cleaning Tasks
-Performed by Ashutosh Rawat:
+
 
 - Removed currency symbols and standardized the `sale_price` and `market_price`.
 - Handled missing or null values (if any).
@@ -13,7 +13,7 @@ Performed by Ashutosh Rawat:
 - Grouped and merged similar sub-categories and types where possible.
 
 # Exploratory Data Analysis (EDA)
-Conducted by Abhay Tiwari:
+
 
 # Visualizations Used:
 - Grouped Bar Charts: Average price by category and brand.
@@ -29,13 +29,13 @@ Conducted by Abhay Tiwari:
 - Pack Size Trend: Larger packs usually offer better value per unit.
 
 # Statistical Analysis
-Also by Abhay Tiwari:
+
 - t-Test: Compared prices of branded vs unbranded items — branded items were significantly more expensive.
 - ANOVA Test: Confirmed significant price differences between product categories.
 - Descriptive Stats: Computed mean, median, standard deviation for each category and sub-category.
 
 # SQL-Based Insights
-Conducted by Yadvendra Singh Dhakad:
+
 
 # Queries Performed:
 1. Average Price per Category
